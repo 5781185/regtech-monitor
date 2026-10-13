@@ -1,6 +1,19 @@
 {
- "last_fetched_at": "2026-10-10T13:19:16.171352+00:00",
+ "last_fetched_at": "2026-10-13T14:51:23.587771+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/two-plead-guilty-after-clients-lose-2m-fraud-case",
+   "title": "Two plead guilty after clients lose £2m in fraud case",
+   "source": "FCA",
+   "published_date": "2026-10-13T11:30:00+00:00",
+   "summary": "Two former financial advice firm employees pleaded guilty to fraud at Portsmouth Crown Court after four clients suffered two million pounds in losses. Kerry Nelson also admitted to a money laundering offense for using withdrawn funds to finance her lifestyle. Both defendants will be sentenced on December 10, 2026, and the FCA is pursuing confiscation proceedings.",
+   "business_area": "洗錢防制與金融犯罪",
+   "risk_level": "高",
+   "deadline": "2026-12-10",
+   "frameworks": [],
+   "action": "Review client asset protection and anti-fraud controls to prevent unauthorized withdrawals ahead of the sentencing on 2026-12-10.",
+   "status": "todo"
+  },
   {
    "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
    "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
