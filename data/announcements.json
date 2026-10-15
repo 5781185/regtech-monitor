@@ -1,6 +1,19 @@
 {
- "last_fetched_at": "2026-10-14T12:41:11.348392+00:00",
+ "last_fetched_at": "2026-10-15T12:29:25.639807+00:00",
  "announcements": [
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
+   "title": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
+   "source": "SEC",
+   "published_date": "2026-10-14T14:30:47+00:00",
+   "summary": "The SEC's Small Business Capital Formation Advisory Committee announced a public meeting scheduled for October 27, 2026. The agenda includes discussions on modernizing the IPO process to encourage more companies to go public. Additionally, the committee will evaluate Regulation Crowdfunding to explore potential policy changes and improve early-stage capital access.",
+   "business_area": "資本市場與上市監管",
+   "risk_level": "中",
+   "deadline": "2026-10-27",
+   "frameworks": [],
+   "action": "Monitor the SEC advisory committee meeting outcomes on October 27, 2026, to assess upcoming policy trends regarding IPO modernization and Regulation Crowdfunding.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/press-releases/three-arrests-major-fca-operation-against-criminal-insider-dealing-ring",
    "title": "Three arrests in major FCA operation against criminal insider dealing ring",
