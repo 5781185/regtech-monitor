@@ -1,6 +1,45 @@
 {
- "last_fetched_at": "2026-10-15T12:29:25.639807+00:00",
+ "last_fetched_at": "2026-10-16T12:08:08.157101+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/statements/libor-euribor-related-bans",
+   "title": "LIBOR/EURIBOR-related bans",
+   "source": "FCA",
+   "published_date": "2026-10-16T11:27:00+00:00",
+   "summary": "The FCA has revoked the regulatory bans and removed Final Notices for Colin Bermingham, Philippe Moryoussef, Jonathan Mathew, and Christian Bittar following the Court of Appeal's decision to overturn their convictions. This action follows the previous year's discontinuation of proceedings and revocation of bans for Tom Hayes and Carlo Palombo after their criminal convictions were quashed. The FCA confirmed it will take no further action against these individuals regarding this matter.",
+   "business_area": "公司治理與高階人員問責",
+   "risk_level": "低",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/news-stories/epayments-systems-limited-enters-special-administration",
+   "title": "ePayments Systems Limited enters special administration",
+   "source": "FCA",
+   "published_date": "2026-10-15T18:22:00+00:00",
+   "summary": "ePayments Systems Limited has entered special administration, with joint special administrators appointed from Opus Restructuring LLP. The firm is authorised by the FCA to issue e-money under the Electronic Money Regulations 2011 and remains subject to FCA rules. The special administrators are responsible for managing customer claims, assessing safeguarded funds, and returning money to customers as reasonably practicable.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "高",
+   "deadline": "2026-10-15",
+   "frameworks": [],
+   "action": "Review client safeguarding arrangements and customer fund protection measures in light of the ePayments Systems Limited special administration entered on 2026-10-15.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/news-stories/jarvis-investment-management-limited-enters-special-administration",
+   "title": "Jarvis Investment Management Limited enters special administration",
+   "source": "FCA",
+   "published_date": "2026-10-15T17:12:00+00:00",
+   "summary": "Jarvis Investment Management Limited entered special administration on 14 October 2026, with Adam Stephens and Philip Hemming of S&W Partners LLP appointed as special administrators. Clients are currently unable to trade or use their custody assets and client money held with the firm while the special administrators assess the financial position. The special administrators are required to write to all clients within 8 weeks of their appointment to explain the plan for returning client money and assets and detailing how to make a claim.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "高",
+   "deadline": "2026-12-09",
+   "frameworks": [],
+   "action": "Review client asset protection and communication procedures following the special administration of Jarvis Investment Management Limited by 2026-12-09.",
+   "status": "todo"
+  },
   {
    "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
    "title": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
