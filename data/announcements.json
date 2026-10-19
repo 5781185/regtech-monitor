@@ -1,6 +1,24 @@
 {
- "last_fetched_at": "2026-10-16T12:08:08.157101+00:00",
+ "last_fetched_at": "2026-10-19T14:24:11.852009+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/speeches/building-future-finance-age-ai",
+   "title": "Building the future of finance in the age of AI",
+   "source": "FCA",
+   "published_date": "2026-10-19T09:05:00+00:00",
+   "summary": "The FCA chief data, information and intelligence officer delivered a speech on AI adoption in financial services, highlighting the release of good and poor practice guidance based on recent firm testing. The speech emphasizes consumer centricity, governance, and operational resilience, while calling on AI providers to include clear disclaimers for AI-generated financial information. Additionally, the FCA outlined its ongoing shift toward continuous assurance, monitoring, and leveraging AI tools for regulatory oversight.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Consumer Duty",
+     "reason": "The text explicitly states that 'The Consumer Duty provides an outcomes-based regulatory framework' and discusses its application to AI-driven inclusive product design and vulnerable consumer support."
+    }
+   ],
+   "action": "Review current AI deployment practices against the FCA's newly published good and poor practice guidance regarding consumer centricity, governance, and operational resilience.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/statements/libor-euribor-related-bans",
    "title": "LIBOR/EURIBOR-related bans",
