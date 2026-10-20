@@ -1,6 +1,19 @@
 {
- "last_fetched_at": "2026-10-19T14:24:11.852009+00:00",
+ "last_fetched_at": "2026-10-20T12:33:51.935554+00:00",
  "announcements": [
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
+   "title": "SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence",
+   "source": "SEC",
+   "published_date": "2026-10-19T17:19:43+00:00",
+   "summary": "The SEC announced a public roundtable scheduled for November 9, 2026, to discuss the use of machine-understandable data and Super Intelligence (SI) along with associated risks and costs. The event aims to gather feedback from market participants regarding how investors utilize these technologies for SI solutions to inform future Commission facilitation. The roundtable will be open to the public at SEC headquarters and streamed live on SEC.gov.",
+   "business_area": "審慎監管與資本要求",
+   "risk_level": "中",
+   "deadline": "2026-11-09",
+   "frameworks": [],
+   "action": "Monitor the SEC roundtable discussions on machine-understandable data and Super Intelligence held on 2026-11-09 to assess emerging regulatory trends and data standards.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/speeches/building-future-finance-age-ai",
    "title": "Building the future of finance in the age of AI",
