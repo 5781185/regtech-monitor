@@ -1,6 +1,68 @@
 {
- "last_fetched_at": "2026-10-20T12:33:51.935554+00:00",
+ "last_fetched_at": "2026-10-21T12:45:30.566060+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/speeches/reshaping-regulation-deliberately",
+   "title": "Reshaping regulation, deliberately",
+   "source": "FCA",
+   "published_date": "2026-10-21T13:07:00+00:00",
+   "summary": "Sarah Pritchard, deputy chief executive of the FCA, delivered a speech at the Investment Association Annual Dinner discussing regulatory reforms, retail investment, and future-proofing the UK financial sector. She highlighted ongoing initiatives including advice and guidance boundary reviews, the Consumer Duty, financial crime prevention, and upcoming market transitions such as T+1 settlement readiness. The address emphasizes balancing market growth and innovation with consumer protection and trust.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Consumer Duty",
+     "reason": "The text explicitly mentions placing greater emphasis on outcomes through the Consumer Duty and reviewing the Consumer Duty's application to wholesale markets."
+    }
+   ],
+   "action": "Review advice and guidance practices against the FCA's targeted support rules and upcoming updated guidance.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/former-chief-executive-banned-after-misconduct-led-4m-losses-high-risk-investments",
+   "title": "Former chief executive banned after misconduct led to £4m losses in high-risk investments",
+   "source": "FCA",
+   "published_date": "2026-10-21T10:34:00+00:00",
+   "summary": "The FCA has banned and fined former Vector Wealth CEO Jeffrey Dawkins for dishonestly acting as a front for a disqualified director to sell high-risk mini-bonds, resulting in investors facing approximately £4 million in losses. Additionally, former senior manager Kadir Kanizi was banned from senior management roles and fined for failing to ensure consumers were properly warned about the risks. The case underscores regulatory enforcement against deceptive marketing of high-risk investments and failures in consumer protection.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "高",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review senior management oversight and consumer warning protocols for high-risk product marketing to prevent unauthorized fronting arrangements and ensure adherence to FCA enforcement standards.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
+   "title": "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
+   "source": "SEC",
+   "published_date": "2026-10-20T13:25:16+00:00",
+   "summary": "The SEC and the French AMF announced a new Memorandum of Understanding to enhance cooperation and information-sharing in supervising investment advisers and investment service providers. The MOU facilitates the SEC's registration and supervision of AMF-supervised asset management companies wishing to conduct business in the U.S. as investment advisers. Both regulatory heads emphasized that the cross-border agreement aims to support global market development while ensuring investor protection and financial system integrity.",
+   "business_area": "資本市場與上市監管",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Advisers Act / Investment Company Act",
+     "reason": "The text states the MOU facilitates information-sharing and the SEC's registration and supervision of investment advisers and investment companies."
+    }
+   ],
+   "action": "Review registration and cross-border compliance procedures for AMF-supervised asset management companies seeking to operate as investment advisers in the United States.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
+   "title": "SEC, FSA Hold Autumn Financial Regulatory Dialogue",
+   "source": "SEC",
+   "published_date": "2026-10-20T12:51:00+00:00",
+   "summary": "The U.S. Securities and Exchange Commission and Japan's Financial Services Agency convened their Autumn Financial Regulatory Dialogue in Tokyo on October 19, 2026. Officials discussed market developments, strategic priorities, and regulatory matters spanning asset management and public and private markets. Both authorities emphasized ongoing cooperation to enhance cross-border collaboration and protect investors.",
+   "business_area": "監管政策與合規流程",
+   "risk_level": "低",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
   {
    "url": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
    "title": "SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence",
