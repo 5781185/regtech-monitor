@@ -1,6 +1,19 @@
 {
- "last_fetched_at": "2026-10-21T12:45:30.566060+00:00",
+ "last_fetched_at": "2026-10-22T12:49:38.610469+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/news-stories/leeds-office-move",
+   "title": "Leeds office move",
+   "source": "FCA",
+   "published_date": "2026-10-22T11:00:00+00:00",
+   "summary": "The organization has signed an agreement for a new office at 2 Wellington Place in Leeds, serving as its long-term home starting in 2028. The 36,097 sq ft facility will replace the current location at 6 Queen Street and support the 5-year strategy to expand roles outside London. Further details regarding the move will be shared closer to the relocation date.",
+   "business_area": "監管政策與合規流程",
+   "risk_level": "低",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/speeches/reshaping-regulation-deliberately",
    "title": "Reshaping regulation, deliberately",
