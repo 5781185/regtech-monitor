@@ -1,6 +1,63 @@
 {
- "last_fetched_at": "2026-10-22T12:49:38.610469+00:00",
+ "last_fetched_at": "2026-10-23T12:27:33.364392+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/fca-calls-private-market-firms-manage-conflicts-interest-line-rapid-growth",
+   "title": "FCA calls on private market firms to manage conflicts of interest in line with rapid growth",
+   "source": "FCA",
+   "published_date": "2026-10-23T11:31:00+00:00",
+   "summary": "The FCA published a review highlighting that private market firms vary in identifying and managing conflicts of interest amid rapid growth. It identified recurring weaknesses in areas such as cross-fund transfers, gifts, and information barriers. Firms are expected to strengthen governance and controls to ensure fair treatment of investors.",
+   "business_area": "公司治理與高階人員問責",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review current conflict of interest controls and governance arrangements against the FCA's identified weaknesses in cross-fund transfers and information barriers.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/speeches/beyond-borders-regulating-risks-we-share",
+   "title": "Beyond borders: Regulating the risks we share",
+   "source": "FCA",
+   "published_date": "2026-10-23T11:18:00+00:00",
+   "summary": "FCA Chair Ashley Alder emphasized the urgent need for international regulatory cooperation to address horizontal, cross-border risks such as climate change, technology outages, and AI. He highlighted that while regulators are pressured to simplify rules for growth, resilience must not be compromised through unseen dependencies. He proposed three pillars for global cooperation: building shared intelligence, conducting joint system-wide tests, and establishing operational crisis mechanisms.",
+   "business_area": "審慎監管與資本要求",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/fca-restricts-6-firms-following-concerns-over-anti-money-laundering-controls",
+   "title": "FCA restricts 6 firms following concerns over anti-money laundering controls",
+   "source": "FCA",
+   "published_date": "2026-10-23T09:47:00+00:00",
+   "summary": "The FCA has placed restrictions on six unregulated Annex 1 lenders at their own request following concerns regarding their anti-money laundering controls. These restrictions limit the firms' ability to take on new customers or conduct new business, including credit extensions. Additionally, the FCA is assessing responses from approximately 900 registered Annex 1 firms and reminding regulated entities to perform appropriate due diligence when dealing with them.",
+   "business_area": "洗錢防制與金融犯罪",
+   "risk_level": "高",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "AML (MLRs / BSA)",
+     "reason": "The text explicitly mentions firms being registered with the FCA for supervision under the Money Laundering Regulations and concerns over their anti-money laundering controls."
+    }
+   ],
+   "action": "Regulated firms must conduct enhanced due diligence and verify registration status when dealing with Annex 1 lenders, in accordance with the Money Laundering Regulations.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/speeches/market-integrity-digital-age",
+   "title": "Market integrity in a digital age",
+   "source": "FCA",
+   "published_date": "2026-10-22T20:01:00+00:00",
+   "summary": "FCA Chief Executive Nikhil Rathi highlighted the acceleration of digital technology and AI in financial markets during a speech in London. He emphasized that regulation must shift focus from slow rulemaking toward outcome-driven supervision and cross-sector partnerships. The speech also addressed emerging risks such as advanced market abuse, cyber threats, and cross-border financial crime.",
+   "business_area": "監管政策與合規流程",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/news-stories/leeds-office-move",
    "title": "Leeds office move",
