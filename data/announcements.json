@@ -1,6 +1,19 @@
 {
- "last_fetched_at": "2026-10-23T12:27:33.364392+00:00",
+ "last_fetched_at": "2026-10-24T11:52:42.107583+00:00",
  "announcements": [
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+   "title": "SEC Announces Fiscal Year 2027 Examination Priorities",
+   "source": "SEC",
+   "published_date": "2026-10-23T14:10:00+00:00",
+   "summary": "The SEC announced the Division of Examinations' Fiscal Year 2027 examination priorities to guide its risk-based program and promote compliance across more than 34,000 registrants. The priorities highlight key areas presenting heightened risks to investors and market integrity, reflecting evolving market developments and emerging trends. Registrants are expected to maintain strong, risk-based compliance programs tailored to their businesses in alignment with federal securities laws.",
+   "business_area": "審慎監管與資本要求",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review registrant compliance programs against the SEC Division of Examinations' FY 2027 priorities to address highlighted areas of heightened risk.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/press-releases/fca-calls-private-market-firms-manage-conflicts-interest-line-rapid-growth",
    "title": "FCA calls on private market firms to manage conflicts of interest in line with rapid growth",
