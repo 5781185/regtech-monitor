@@ -1,6 +1,32 @@
 {
- "last_fetched_at": "2026-10-24T11:52:42.107583+00:00",
+ "last_fetched_at": "2026-10-26T13:57:47.463981+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/blogs/defence-smes-need-banking-services-work",
+   "title": "Defence SMEs need banking services that work",
+   "source": "FCA",
+   "published_date": "2026-10-26T11:01:00+00:00",
+   "summary": "The UK regulatory publication examines access to banking services for small and medium-sized enterprises (SMEs) operating in the defence sector. It finds that rather than widespread exclusion, defence SMEs primarily face operational friction such as prolonged onboarding and repeated information requests. The publication reinforces the principle that financial services firms should apply proportionate, risk-based decision-making rather than treating defence as a single high-risk category.",
+   "business_area": "審慎監管與資本要求",
+   "risk_level": "低",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/news-stories/chandler-king-enters-creditors-voluntary-liquidation",
+   "title": "Chandler King (City) Limited enters creditors’ voluntary liquidation",
+   "source": "FCA",
+   "published_date": "2026-10-26T10:00:00+00:00",
+   "summary": "Chandler King (City) Limited entered creditors' voluntary liquidation on 17 September 2026, with Grace Jones and Karyn Jones of Parker Andrews appointed as joint liquidators. The FCA-authorised independent financial adviser previously agreed to a voluntary restriction of activities and applied to cancel its FCA permissions. Joint liquidators will assess client money and custody assets to return them to customers, while eligible clients may seek compensation through the Financial Services Compensation Scheme.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Customers should contact the joint liquidators from Parker Andrews regarding client money, custody assets, and the claims process following the 2026-09-17 liquidation.",
+   "status": "todo"
+  },
   {
    "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
    "title": "SEC Announces Fiscal Year 2027 Examination Priorities",
