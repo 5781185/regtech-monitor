@@ -1,6 +1,19 @@
 {
- "last_fetched_at": "2026-10-26T13:57:47.463981+00:00",
+ "last_fetched_at": "2026-10-27T13:00:45.061009+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/news-stories/bullseye-financial-ltd-enters-administration",
+   "title": "Bullseye Financial Ltd enters administration",
+   "source": "FCA",
+   "published_date": "2026-10-27T12:15:00+00:00",
+   "summary": "Bullseye Financial Ltd entered administration on 23 October 2026, with joint administrators appointed to manage the firm's affairs. The firm previously agreed to a voluntary requirement to stop regulated activities on 11 March 2026. Customers are advised to contact the joint administrators directly regarding their investments, complaints, and potential claims.",
+   "business_area": "審慎監管與資本要求",
+   "risk_level": "高",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review client portfolios and claims procedures with the appointed joint administrators of Bullseye Financial Ltd to understand recovery and compensation options.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/blogs/defence-smes-need-banking-services-work",
    "title": "Defence SMEs need banking services that work",
