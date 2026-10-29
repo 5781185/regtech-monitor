@@ -1,6 +1,55 @@
 {
- "last_fetched_at": "2026-10-27T13:00:45.061009+00:00",
+ "last_fetched_at": "2026-10-29T13:58:31.324681+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/news-stories/fca-encourages-former-verus-financial-services-limited-customers-check-if-they-can-claim-fscs",
+   "title": "FCA encourages former Verus Financial Services Limited customers to check if they can claim with FSCS",
+   "source": "FCA",
+   "published_date": "2026-10-29T11:58:00+00:00",
+   "summary": "The FCA is supporting the FSCS as it invites compensation claims from former customers of Verus Financial Services Limited. Verus lost its regulatory permissions in 2025 and is currently under investigation by the FSCS. Customers are advised to check their eligibility directly with the FSCS and remain cautious of third-party claims management companies and potential fraud.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "低",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/blogs/fair-value-look-practice-three-years-consumer-duty",
+   "title": "What does 'fair value' look like in practice? Three years into the Consumer Duty, here’s what we’ve learned.",
+   "source": "FCA",
+   "published_date": "2026-10-29T10:03:00+00:00",
+   "summary": "The FCA reflects on three years of the Consumer Duty, highlighting that fair value requires reasonable pricing relative to benefits received. Recent reviews across consumer finance, credit products, and home energy agreements revealed that stronger firms use clear evidence and customer segmentation. In contrast, weaker assessments rely on assumptions, scattered data, and treat target markets as homogeneous groups.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Consumer Duty",
+     "reason": "The text discusses observations and expectations three years into the implementation of the Consumer Duty, specifically regarding fair value assessments."
+    }
+   ],
+   "action": "Review current fair value assessment, evidence, and customer segmentation methodologies against the FCA's recent supervisory findings.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions",
+   "title": "FCA stops HTX's crypto promotions",
+   "source": "FCA",
+   "published_date": "2026-10-29T10:00:00+00:00",
+   "summary": "The FCA secured High Court undertakings and reached a settlement with crypto exchange HTX after legal action for unlawful financial promotions. HTX has exited the UK market, halted new user sign-ups and deposits, and agreed not to target UK consumers. Existing UK users must review website information regarding the withdrawal of residual assets.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Crypto-asset regime",
+     "reason": "The text states the FCA took legal action against global crypto exchange HTX for unlawfully promoting cryptoasset services and failing to comply with UK financial promotion rules."
+    }
+   ],
+   "action": "Review platform records to ensure no promotional materials or onboarding channels for HTX or similar unauthorized overseas crypto services are accessible to UK consumers.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/news-stories/bullseye-financial-ltd-enters-administration",
    "title": "Bullseye Financial Ltd enters administration",
