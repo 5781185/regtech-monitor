@@ -1,6 +1,45 @@
 {
- "last_fetched_at": "2026-10-29T13:58:31.324681+00:00",
+ "last_fetched_at": "2026-10-30T13:52:47.290280+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/brits-nearly-twice-likely-spot-pressure-tactics-horror-films-investment-red-flags",
+   "title": "Brits nearly twice as likely to spot pressure tactics in horror films as investment red flags",
+   "source": "FCA",
+   "published_date": "2026-10-30T09:00:00+00:00",
+   "summary": "FCA survey data reveals UK young investors are nearly twice as likely to recognise pressure tactics in horror films compared to investment scenarios. Only 36% exercise caution when facing 'last chance to buy' pitches, contrasting with high awareness of similar tropes in horror. The regulator highlights this vulnerability to hype and FOMO, promoting its InvestSmart campaign tools to help consumers make informed decisions.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "低",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
+   "title": "Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence",
+   "source": "SEC",
+   "published_date": "2026-10-29T16:42:37+00:00",
+   "summary": "The SEC charged two foreign-operated entities for orchestrating a $130 million fraud scheme involving false SEC filings to lure retail investors into a crypto trading program. The defendants falsely claimed SEC registration as an investment adviser and utilized fake certificates and Ponzi-like payments to sustain the ruse. The complaint alleges violations of antifraud provisions under the Securities Act, Exchange Act, and Investment Advisers Act, seeking permanent injunctions and financial penalties.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "高",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Securities Act",
+     "reason": "The complaint charges the defendants with violating the antifraud provisions of the Securities Act of 1933."
+    },
+    {
+     "name": "Exchange Act",
+     "reason": "The complaint charges the defendants with violating the antifraud provisions of the Securities Exchange Act of 1934."
+    },
+    {
+     "name": "Advisers Act / Investment Company Act",
+     "reason": "The complaint charges BG Wealth with violating Sections 204(a) and 207 of the Investment Advisers Act of 1940 regarding false Form ADV filings."
+    }
+   ],
+   "action": "Review controls and verification processes for SEC registration and filing claims to ensure retail investor communications accurately reflect compliance status under the Securities Act and Investment Advisers Act.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/news-stories/fca-encourages-former-verus-financial-services-limited-customers-check-if-they-can-claim-fscs",
    "title": "FCA encourages former Verus Financial Services Limited customers to check if they can claim with FSCS",
