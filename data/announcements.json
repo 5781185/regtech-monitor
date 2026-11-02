@@ -1,6 +1,32 @@
 {
- "last_fetched_at": "2026-10-31T13:23:05.209372+00:00",
+ "last_fetched_at": "2026-11-02T16:51:46.236188+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/statements/demands-disguised-remuneration-scheme-loan-repayments",
+   "title": "Demands for disguised remuneration scheme loan repayments",
+   "source": "FCA",
+   "published_date": "2026-11-02T12:12:00+00:00",
+   "summary": "HMRC and the FCA have addressed demands for the repayment of loans linked to disguised remuneration schemes sold to third parties. Borrowers are facing legal threats and demands for immediate repayment despite questions over the enforceability of these debts. The FCA must grant a Validation Order for these loans to be legally enforced, which is not guaranteed.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review procedures for handling third-party debt collection inquiries and ensure consumers facing disguised remuneration loan demands are directed to HMRC guidance and appropriate legal advice.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/statements/fca-publishes-terms-reference-independent-review-concerning-mr-andriesz",
+   "title": "FCA publishes terms of reference for independent review concerning Mr Andriesz",
+   "source": "FCA",
+   "published_date": "2026-11-02T10:30:00+00:00",
+   "summary": "The FCA published the terms of reference for an independent review conducted by Lea Paterson CBE into its handling of whistleblower Mr Simon Andriesz. The review's scope has been expanded to assess whether the FCA met its responsibilities under whistleblowing law and its own policies from 2017 to 2026. A progress update is scheduled for January 2027, with the final report now expected in spring 2027.",
+   "business_area": "公司治理與高階人員問責",
+   "risk_level": "低",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
   {
    "url": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
    "title": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
