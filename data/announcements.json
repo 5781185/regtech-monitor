@@ -1,6 +1,32 @@
 {
- "last_fetched_at": "2026-11-02T16:51:46.236188+00:00",
+ "last_fetched_at": "2026-11-03T14:53:43.366616+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/new-fca-rules-bring-esg-rating-providers-uk-regulation-first-time",
+   "title": "New FCA rules bring ESG rating providers into UK regulation for the first time",
+   "source": "FCA",
+   "published_date": "2026-11-03T10:03:00+00:00",
+   "summary": "The UK FCA has introduced new rules bringing ESG rating providers into regulation for the first time to improve transparency, reliability, and comparability. The framework establishes requirements for transparency, governance, systems and controls, and conflict of interest management. Affected firms must begin preparing for authorisation, with the application window opening on 24 June 2027.",
+   "business_area": "審慎監管與資本要求",
+   "risk_level": "高",
+   "deadline": "2027-06-24",
+   "frameworks": [],
+   "action": "ESG rating providers operating in the UK market must review the FCA guidance to determine scope and begin preparing for FCA authorisation before 2027-06-24.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/fca-sets-expectations-firms-making-car-finance-settlement-offers",
+   "title": "FCA sets expectations for firms making car finance settlement offers",
+   "source": "FCA",
+   "published_date": "2026-11-03T09:00:00+00:00",
+   "summary": "The FCA released survey findings showing that the vast majority of car finance customers prefer immediate compensation offers over waiting for ongoing legal challenges to conclude. Simultaneously, the regulator published expectations for lenders wishing to make early settlement offers, provided customers receive no less than what the compensation scheme would deliver. Lenders must clearly communicate the finality of these offers and share an FCA factsheet, while notifying the regulator of their intent to make such offers.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "高",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review the FCA's expectations and share the required factsheet with customers if making early settlement offers for car finance complaints.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/statements/demands-disguised-remuneration-scheme-loan-repayments",
    "title": "Demands for disguised remuneration scheme loan repayments",
