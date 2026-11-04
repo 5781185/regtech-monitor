@@ -1,6 +1,19 @@
 {
- "last_fetched_at": "2026-11-03T14:53:43.366616+00:00",
+ "last_fetched_at": "2026-11-04T15:11:29.424071+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/blogs/act-now-be-resilient-quantum-future",
+   "title": "Act now to be resilient in the quantum future",
+   "source": "FCA",
+   "published_date": "2026-11-04T10:01:00+00:00",
+   "summary": "Financial firms must act now to prepare for post-quantum cryptography (PQC) risks, as future quantum computers threaten current encryption standards. Preparing for PQC requires significant time and investment to map cryptography usage and migrate hardware and software. Senior managers are expected to allocate sufficient resources, while regulators are trialing self-assessment tools and planning further guidance.",
+   "business_area": "審慎監管與資本要求",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Senior managers should assess current cryptography usage, allocate sufficient investment resources, and prepare for PQC migration in line with NCSC guidance and upcoming cyber resilience consultations.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/press-releases/new-fca-rules-bring-esg-rating-providers-uk-regulation-first-time",
    "title": "New FCA rules bring ESG rating providers into UK regulation for the first time",
