@@ -1,6 +1,72 @@
 {
- "last_fetched_at": "2026-11-04T15:11:29.424071+00:00",
+ "last_fetched_at": "2026-11-05T15:12:58.714832+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/statements/fca-acts-protect-consumers-demands-disguised-remuneration-scheme-loan-repayments",
+   "title": "FCA acts to protect consumers facing demands for disguised remuneration scheme loan repayments",
+   "source": "FCA",
+   "published_date": "2026-11-05T13:46:00+00:00",
+   "summary": "The FCA intervened and secured agreed restrictions against Ethica Resolve Limited, an authorised debt-servicing firm, following aggressive debt recovery demands regarding disguised remuneration scheme loans. These loans were purchased by an unauthorised entity, West 28th Street Limited, and targeted vulnerable contractors and agency workers. The agreed requirements protect consumers from avoidable harm and undue pressure while legal and regulatory issues surrounding debt enforceability are resolved.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review debt collection and servicing practices related to legacy disguised remuneration scheme loans to ensure compliance with FCA consumer protection expectations.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/blogs/looking-back-move-forward-why-reviewing-our-rules-matters",
+   "title": "Looking back to move forward: why reviewing our rules matters",
+   "source": "FCA",
+   "published_date": "2026-11-05T10:32:00+00:00",
+   "summary": "The FCA highlights its ongoing efforts to review, update, and simplify existing rules to ensure regulations remain effective and proportionate. The text outlines various mechanisms such as post-implementation reviews, the Rule Review Framework, and stakeholder feedback to future-proof the regulatory regime. It also notes recent and upcoming changes across areas like mortgages, senior management regimes, and wholesale market reporting.",
+   "business_area": "監管政策與合規流程",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Consumer Duty",
+     "reason": "The text states that 'The high standards and outcomes-focused approach of the Consumer Duty allows us to look again at where we can reduce reliance on more prescriptive rules'."
+    },
+    {
+     "name": "SM&CR",
+     "reason": "The text states that 'In 2026, we completed the first phase of reforms to the Senior Managers and Certification Regime' and references consulting on a second phase."
+    }
+   ],
+   "action": "Monitor upcoming FCA consultations on regulatory reviews and assess potential impacts on internal compliance policies and reporting frameworks.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/fca-explore-quantum-computing-tackle-financial-crime",
+   "title": "FCA to explore quantum computing to tackle financial crime",
+   "source": "FCA",
+   "published_date": "2026-11-05T09:03:00+00:00",
+   "summary": "The FCA is launching the Quantum Experimentation Group in the first quarter of 2027 to explore quantum computing applications for financial crime detection. Financial services firms, quantum technology providers, and national research labs can register their interest by 31 December 2026. Participants will utilize an FCA synthetic dataset to test quantum machine learning for detecting money laundering and fraud.",
+   "business_area": "洗錢防制與金融犯罪",
+   "risk_level": "中",
+   "deadline": "2026-12-31",
+   "frameworks": [],
+   "action": "Register interest to join the Quantum Experimentation Group by 2026-12-31 if participating in quantum machine learning trials for financial crime detection.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
+   "title": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
+   "source": "SEC",
+   "published_date": "2026-11-04T16:28:00+00:00",
+   "summary": "The SEC adopted amendments to update the definitions of small entities for investment companies, investment advisers, and business development companies under the Regulatory Flexibility Act. These amendments address substantial industry growth over the past decades by revising asset-based thresholds to capture a more meaningful population of small entities. The updates are intended to eliminate unnecessary regulatory burdens and ensure future rulemaking better reflects current market realities.",
+   "business_area": "審慎監管與資本要求",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Advisers Act / Investment Company Act",
+     "reason": "The text states that the SEC adopted amendments to update definitions of small entity for investment companies and investment advisers under the Investment Advisers Act of 1940 and Investment Company Act of 1940."
+    }
+   ],
+   "action": "Assess the revised small entity asset-based thresholds to determine if your investment company or investment adviser qualifies under the updated Regulatory Flexibility Act definitions.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/blogs/act-now-be-resilient-quantum-future",
    "title": "Act now to be resilient in the quantum future",
