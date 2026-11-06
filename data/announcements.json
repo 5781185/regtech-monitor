@@ -1,6 +1,24 @@
 {
- "last_fetched_at": "2026-11-05T15:12:58.714832+00:00",
+ "last_fetched_at": "2026-11-06T14:49:14.016838+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/blogs/not-so-fine-print-making-consumer-contracts-fair",
+   "title": "The not-so-fine print: making consumer contracts fair",
+   "source": "FCA",
+   "published_date": "2026-11-06T10:02:00+00:00",
+   "summary": "The regulator highlights that all firms must ensure consumer contracts comply with fairness and transparency requirements under the Consumer Rights Act 2015. Unfair contract terms are unenforceable and may trigger consumer redress, with the regulator actively reviewing terms through supervision and stakeholder reports. Firms are expected to regularly check their consumer contracts for fairness, clarity, and transparency, as authorities retain powers to seek court injunctions and redress orders.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Consumer Duty",
+     "reason": "The text states that the regulator considers 'our rules and guidance, including the Consumer Duty, when deciding whether to act and which of our regulatory tools to use.'"
+    }
+   ],
+   "action": "Review all active consumer contract terms and conditions to ensure compliance with fairness and transparency requirements under the Consumer Rights Act 2015 and Consumer Duty outcomes.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/statements/fca-acts-protect-consumers-demands-disguised-remuneration-scheme-loan-repayments",
    "title": "FCA acts to protect consumers facing demands for disguised remuneration scheme loan repayments",
