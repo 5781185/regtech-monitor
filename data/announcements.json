@@ -1,6 +1,41 @@
 {
- "last_fetched_at": "2026-11-06T14:49:14.016838+00:00",
+ "last_fetched_at": "2026-11-11T14:56:47.189506+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/man-sentenced-over-154m-fake-takeover-bid-targeting-uk-listed-company",
+   "title": "Man sentenced over £154m fake takeover bid targeting UK-listed company",
+   "source": "FCA",
+   "published_date": "2026-11-10T17:12:00+00:00",
+   "summary": "Christopher Woolcott was sentenced to a two-year suspended prison sentence and unpaid work for orchestrating a £154m fake takeover bid for Touchstone Exploration Inc. He used forged documents and false identities created with ChatGPT to inflate the company's share price for personal profit. The Financial Conduct Authority (FCA) successfully investigated and prosecuted the fraud using transaction data, surveillance, and digital forensics.",
+   "business_area": "洗錢防制與金融犯罪",
+   "risk_level": "低",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
+   "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
+   "source": "SEC",
+   "published_date": "2026-11-10T16:15:35+00:00",
+   "summary": "The SEC published its enforcement results for fiscal year 2026, detailing 348 enforcement actions, $1.095 billion in monetary relief, and structural enhancements including the Retail Fraud Working Group and the Financial Reporting and Accounting Unit. The agency also updated its Enforcement Manual and rescinded Rule 202.5(e) to provide greater flexibility in settling enforcement actions. Furthermore, the report highlights major litigation victories, priorities in combating retail investor harm, and interagency coordination efforts.",
+   "business_area": "審慎監管與資本要求",
+   "risk_level": "高",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Exchange Act",
+     "reason": "The text states that Hext Capital Partners, LLC violated 'Section 15(c)(3) of the Exchange Act and Rule 15c3-1 thereunder (the Net Capital Rule)'."
+    },
+    {
+     "name": "Advisers Act / Investment Company Act",
+     "reason": "The text states that registered investment advisers Northeast Financial Group, Inc., FamilyWealth Advisers, LLC and FamilyWealth Asset Management, LLC violated 'Section 206(4) of the Advisers Act and Rule 206(4)-2 thereunder (the Custody Rule)'."
+    }
+   ],
+   "action": "Review compliance controls against the updated Enforcement Manual standards and SEC enforcement priorities for fiscal year 2026.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/blogs/not-so-fine-print-making-consumer-contracts-fair",
    "title": "The not-so-fine print: making consumer contracts fair",
