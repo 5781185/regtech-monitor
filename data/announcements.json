@@ -1,6 +1,19 @@
 {
- "last_fetched_at": "2026-11-11T14:56:47.189506+00:00",
+ "last_fetched_at": "2026-11-12T15:48:12.384520+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/fca-proposes-greater-pension-investment-flexibility-support-long-term-value-savers",
+   "title": "FCA proposes greater pension investment flexibility to support long-term value for savers",
+   "source": "FCA",
+   "published_date": "2026-11-12T10:05:00+00:00",
+   "summary": "The FCA is consulting on proposals to exclude certain performance-linked fees from the charge cap for default funds in workplace pensions it regulates. The change aims to give workplace pension providers greater flexibility to invest in private markets and long-term assets to improve savers' returns. The proposal includes robust safeguards covering transparency, fair fee allocation, asset valuation scrutiny, and value-for-money assessments.",
+   "business_area": "審慎監管與資本要求",
+   "risk_level": "高",
+   "deadline": "2027-01-14",
+   "frameworks": [],
+   "action": "Review the consultation proposals on excluding performance-linked fees from the charge cap and submit feedback to the FCA before 2027-01-14.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/press-releases/man-sentenced-over-154m-fake-takeover-bid-targeting-uk-listed-company",
    "title": "Man sentenced over £154m fake takeover bid targeting UK-listed company",
