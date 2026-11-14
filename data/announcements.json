@@ -1,6 +1,19 @@
 {
- "last_fetched_at": "2026-11-12T15:48:12.384520+00:00",
+ "last_fetched_at": "2026-11-14T13:58:15.555505+00:00",
  "announcements": [
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
+   "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
+   "source": "SEC",
+   "published_date": "2026-11-13T16:57:00+00:00",
+   "summary": "The SEC proposed rule amendments to modernize executive and director compensation disclosure requirements in Item 402 of Regulation S-K. The proposal focuses on materiality and principles-based reporting to reduce compliance burdens while improving investor transparency. Public comments will be accepted for 60 days following publication in the Federal Register.",
+   "business_area": "公司治理與高階人員問責",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review the proposed amendments to Regulation S-K Item 402 and submit public comments within 60 days of publication in the Federal Register.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/press-releases/fca-proposes-greater-pension-investment-flexibility-support-long-term-value-savers",
    "title": "FCA proposes greater pension investment flexibility to support long-term value for savers",
