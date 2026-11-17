@@ -1,6 +1,50 @@
 {
- "last_fetched_at": "2026-11-14T13:58:15.555505+00:00",
+ "last_fetched_at": "2026-11-17T16:44:19.974862+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/fca-charges-individual-money-laundering",
+   "title": "FCA charges individual with money laundering",
+   "source": "FCA",
+   "published_date": "2026-11-17T14:19:00+00:00",
+   "summary": "The FCA has formally charged Raymond Fieldhouse with a money laundering offence involving over £1.42m from investment scams. The alleged activities occurred between 1 June 2017 and 1 August 2018. Mr Fieldhouse appeared at Stockport Magistrates’ Court and has been remanded in custody until a hearing on 22 December 2026.",
+   "business_area": "洗錢防制與金融犯罪",
+   "risk_level": "高",
+   "deadline": "2026-12-22",
+   "frameworks": [
+    {
+     "name": "AML (MLRs / BSA)",
+     "reason": "The text explicitly states that the FCA has charged an individual with a money laundering offence."
+    }
+   ],
+   "action": "Monitor the case developments regarding Raymond Fieldhouse's money laundering charges ahead of the plea and trial preparation hearing on 2026-12-22 to assess any implications for financial crime controls.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/blogs/getting-full-picture-trading-uk-shares",
+   "title": "Getting the full picture of trading in UK shares",
+   "source": "FCA",
+   "published_date": "2026-11-17T10:12:00+00:00",
+   "summary": "The FCA highlights that trading in UK shares has become increasingly dispersed across various venues and execution methods, making it harder to obtain a complete picture of market-wide liquidity. To address this, the market activity reporter was launched to aggregate trading activity across all UK execution mechanisms and now includes FTSE 100 and FTSE 250 level data. Firms are encouraged to evaluate their data sources to ensure they capture comprehensive market liquidity ahead of the equity consolidated tape introduction.",
+   "business_area": "市場行為與交易誠信",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review current market data sources and execution analytics to ensure they account for dispersed UK share trading activity ahead of the equity consolidated tape.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/blogs/what-were-learning-firms-engaging-our-innovation-services",
+   "title": "What we’re learning from firms engaging with our innovation services",
+   "source": "FCA",
+   "published_date": "2026-11-17T09:01:00+00:00",
+   "summary": "The FCA highlights three key trends from firms engaging with its innovation services: the growing use of AI, innovation crossing traditional sector boundaries, and a focus on financial inclusion. Applications to innovation pathways and the regulatory sandbox reveal how early-stage firms are deploying new technologies, while upcoming thematic cohorts like climate scenarios invite specialist testing. These insights help the regulator understand evolving technologies and inform smarter, more proportionate regulatory approaches.",
+   "business_area": "監管政策與合規流程",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
   {
    "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
    "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
