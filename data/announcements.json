@@ -1,6 +1,32 @@
 {
- "last_fetched_at": "2026-11-18T16:14:39.610733+00:00",
+ "last_fetched_at": "2026-11-19T16:23:57.883805+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/speeches/courage-change",
+   "title": "The courage to change",
+   "source": "FCA",
+   "published_date": "2026-11-19T10:50:00+00:00",
+   "summary": "Sarah Pritchard discusses the FCA's commitment to supporting fintech innovation and growth through initiatives like the Regulatory Sandbox and Innovation Pathways. She highlights the launch of the AI Spotlight Observatory and ongoing work to explore how technology can streamline risk management and KYC processes. Furthermore, she encourages firms to engage with the regulator's innovation services and pre-application support to navigate regulatory uncertainties.",
+   "business_area": "監管政策與合規流程",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review the newly launched AI Spotlight Observatory and consider engaging with the FCA's Innovation Services if developing fintech or AI solutions.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/uk-financial-watchdogs-clarify-cyber-expectations-attacks-rise",
+   "title": "UK financial watchdogs clarify cyber expectations as attacks rise",
+   "source": "FCA",
+   "published_date": "2026-11-19T08:02:00+00:00",
+   "summary": "UK financial regulators are proposing new guidance to help financial services firms prepare for and recover from growing cyber incidents. The Bank of England, FCA, and PRA are consolidating existing requirements and supervisory lessons to provide clarity on cyber expectations. Additionally, regulators are publishing effective practices to help firms address risks linked to AI developments and quantum computing.",
+   "business_area": "審慎監管與資本要求",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review the proposed cyber resilience guidance and effective practices published by the UK regulators to assess alignment with current cybersecurity controls and preparedness for AI and quantum threats.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/blogs/helping-more-people-break-cycle-persistent-credit-card-debt",
    "title": "Helping more people break the cycle of persistent credit card debt",
