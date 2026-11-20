@@ -1,6 +1,41 @@
 {
- "last_fetched_at": "2026-11-19T16:23:57.883805+00:00",
+ "last_fetched_at": "2026-11-20T15:57:24.228602+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/geordie-shore-star-illegal-finfluencer-sentenced-promoting-high-risk-investments-social-media",
+   "title": "Geordie Shore star and illegal finfluencer sentenced for promoting high-risk investments on social media",
+   "source": "FCA",
+   "published_date": "2026-11-19T17:19:00+00:00",
+   "summary": "Aaron Chalmers and Jason Agbodza were sentenced at City of London Magistrates Court for illegally promoting unauthorized foreign exchange CFDs on social media to their followers. The FCA highlighted that approximately 80% of customers lose money on CFDs and emphasized continued enforcement against unlawful finfluencers. Additionally, the FCA is urging social media platforms to further restrict and monitor illegal financial promotions.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review social media marketing and finfluencer partnership policies to ensure unauthorized high-risk investments are not promoted.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+   "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+   "source": "SEC",
+   "published_date": "2026-11-19T14:39:02+00:00",
+   "summary": "The SEC charged eight Colorado-based entities for operating fraudulent investment advisers and crypto asset trading platforms to steal over $37 million from U.S. investors. The defendants used social media ads, fake regulatory filings, and fabricated certificates to deceive victims between August 2024 and May 2026. The SEC's complaint seeks permanent injunctions, disgorgement, and civil penalties for violations of the Exchange Act and Advisers Act.",
+   "business_area": "洗錢防制與金融犯罪",
+   "risk_level": "高",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Exchange Act",
+     "reason": "The complaint charges the defendants with violating Section 10(b) of the Securities Exchange Act of 1934 and Rule 10b-5 thereunder."
+    },
+    {
+     "name": "Advisers Act / Investment Company Act",
+     "reason": "The complaint charges specific entities with violating Sections 206(1), 206(2), and Section 207 of the Investment Advisers Act of 1940."
+    }
+   ],
+   "action": "Review client onboarding and verification controls to detect fake investment adviser fronts and deceptive crypto asset trading platforms.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/speeches/courage-change",
    "title": "The courage to change",
@@ -12,6 +47,37 @@
    "deadline": null,
    "frameworks": [],
    "action": "Review the newly launched AI Spotlight Observatory and consider engaging with the FCA's Innovation Services if developing fintech or AI solutions.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/news-stories/insurance-firms-called-improve-claims-handling",
+   "title": "Insurance firms called on to improve claims handling",
+   "source": "FCA",
+   "published_date": "2026-11-19T09:32:00+00:00",
+   "summary": "The FCA and Financial Ombudsman Service published a joint report urging insurance firms to improve claims handling and service quality. The report highlights areas for improvement based on ombudsman complaints and previous reviews, focusing on consumer understanding and prompt, fair service. It precedes upcoming legislative changes requiring regular joint thematic reports on complaints handling as part of broader redress reforms.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Consumer Duty",
+     "reason": "The text states the report focuses on consumer understanding and fair treatment, building on previous reviews and existing rules within the context of insurance customer service quality."
+    }
+   ],
+   "action": "Review insurance claims handling processes against the FCA and Financial Ombudsman Service report findings to improve consumer understanding and service quality.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/fca-launches-world-first-platform-giving-firms-new-insight-ai-innovation",
+   "title": "FCA launches world-first platform giving firms new insight into AI innovation",
+   "source": "FCA",
+   "published_date": "2026-11-19T09:01:00+00:00",
+   "summary": "The FCA has launched the AI Spotlight Observatory, a world-first platform providing practical examples of AI adoption across financial services. Developed in partnership with CFTE and NayaOne, the resource spans over 150 areas of activity based on input from more than 200 organisations. The platform aims to help firms of all sizes understand emerging technology trends, including financial crime solutions and agentic payments, to support responsible AI adoption.",
+   "business_area": "監管政策與合規流程",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review the FCA's AI Spotlight Observatory platform to benchmark internal AI adoption trends and support responsible innovation strategies.",
    "status": "todo"
   },
   {
