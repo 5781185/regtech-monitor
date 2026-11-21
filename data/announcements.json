@@ -1,6 +1,50 @@
 {
- "last_fetched_at": "2026-11-20T15:57:24.228602+00:00",
+ "last_fetched_at": "2026-11-21T15:07:51.793303+00:00",
  "announcements": [
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
+   "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
+   "source": "SEC",
+   "published_date": "2026-11-20T18:03:24+00:00",
+   "summary": "The SEC has issued a proposal to restructure the Consolidated Audit Trail (CAT) by rescinding Rule 613 of Regulation NMS and placing the CAT under direct SEC control. The proposal requires SROs and broker-dealers to record and electronically report substantially the same information under new Rule 17a-26 of the Securities Exchange Act of 1934. The public comment period will remain open for 60 days following publication in the Federal Register.",
+   "business_area": "交易申報與市場基礎設施",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Exchange Act",
+     "reason": "The text states that the proposal would add new Rule 17a-26 under the Securities Exchange Act of 1934, requiring SROs and broker-dealers to record and electronically report information."
+    }
+   ],
+   "action": "Review the SEC proposal to rescind Rule 613 of Regulation NMS and prepare comments or assess operational impacts regarding new Rule 17a-26 under the Securities Exchange Act of 1934 during the 60-day public comment period following Federal Register publication.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+   "title": "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
+   "source": "SEC",
+   "published_date": "2026-11-20T14:28:28+00:00",
+   "summary": "The SEC obtained emergency relief including a temporary restraining order and asset freeze against Backward Hat Capital and its co-founders for operating an ongoing $560 million Ponzi scheme. The defendants allegedly raised funds from over 2,000 investors by falsely promising high returns from algorithmic FX trading using crypto assets. Furthermore, the SEC complaint charges the defendants with violations of the antifraud provisions under the Securities Act of 1933 and the Securities Exchange Act of 1934.",
+   "business_area": "洗錢防制與金融犯罪",
+   "risk_level": "高",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "Securities Act",
+     "reason": "The SEC's complaint charges Backward Hat Capital, Traders Point Capital, Williams, Johnson, and Anderson with violations of the antifraud provisions of the Securities Act of 1933."
+    },
+    {
+     "name": "Exchange Act",
+     "reason": "The SEC's complaint charges the defendants with violations of the antifraud provisions of the Securities Exchange Act of 1934."
+    },
+    {
+     "name": "Advisers Act / Investment Company Act",
+     "reason": "Williams and Traders Point Capital are charged with violations of the Investment Advisers Act of 1940."
+    }
+   ],
+   "action": "Review private fund solicitation practices and ensure algorithmic trading claims are substantiated to prevent exposure to fraudulent offering schemes under the Securities Act and Exchange Act.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/press-releases/geordie-shore-star-illegal-finfluencer-sentenced-promoting-high-risk-investments-social-media",
    "title": "Geordie Shore star and illegal finfluencer sentenced for promoting high-risk investments on social media",
