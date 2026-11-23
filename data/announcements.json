@@ -1,6 +1,32 @@
 {
- "last_fetched_at": "2026-11-21T15:07:51.793303+00:00",
+ "last_fetched_at": "2026-11-23T19:00:30.951269+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/news-stories/kandoo-car-credit-ltd-enters-administration",
+   "title": "Kandoo Car Credit Ltd enters administration",
+   "source": "FCA",
+   "published_date": "2026-11-23T14:54:00+00:00",
+   "summary": "Kandoo Car Credit Ltd entered administration on 23 November 2026, with Steve Kenny and Richard Cole of KBL Advisory Limited appointed as joint administrators. The firm has ceased arranging motor finance and is no longer operating as a credit broker. Existing customers must continue making loan repayments to their respective lenders while addressing claims or inquiries with the joint administrators.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/bereaved-families-need-support-not-battle-paperwork",
+   "title": "Bereaved families need support, not a battle with paperwork",
+   "source": "FCA",
+   "published_date": "2026-11-23T09:01:00+00:00",
+   "summary": "The FCA reviewed how investment firms, wealth managers, and financial advisers support bereaved families handling a deceased person's estate. It found inconsistent practices, ranging from supportive communications to confusing processes, delays, and continued charging of advice fees until receiving a death certificate. The regulator urges all firms to improve their support, clear information channels, and handling procedures for bereaved clients.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review current bereavement support processes, communication clarity, and fee-charging practices for estates against FCA findings to ensure clients are not subjected to needless distress or unauthorized ongoing fees.",
+   "status": "todo"
+  },
   {
    "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
    "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
