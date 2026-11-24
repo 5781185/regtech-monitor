@@ -1,6 +1,24 @@
 {
- "last_fetched_at": "2026-11-23T19:00:30.951269+00:00",
+ "last_fetched_at": "2026-11-24T18:40:59.616753+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/blogs/smarter-regulation-means-understanding-trade-offs",
+   "title": "Smarter regulation means understanding the trade-offs",
+   "source": "FCA",
+   "published_date": "2026-11-24T14:04:00+00:00",
+   "summary": "The FCA highlights the economic trade-offs of regulation, emphasizing the need for evidence-based policymaking to balance consumer protection and market confidence with sustainable growth and innovation. The regulator notes ongoing initiatives to reduce administrative burdens and streamline existing frameworks, including proposals related to asset management reporting and the Senior Managers and Certification Regime. Additionally, the FCA is inviting external researchers to contribute ideas to its evolving research agenda on financial regulation and market impacts.",
+   "business_area": "公司治理與高階人員問責",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [
+    {
+     "name": "SM&CR",
+     "reason": "The text explicitly mentions 'making the Senior Managers and Certification Regime more proportionate while preserving its core accountability objectives.'"
+    }
+   ],
+   "action": "Monitor upcoming policy proposals regarding the streamlining of the Senior Managers and Certification Regime and asset management reporting for potential impacts on compliance operations.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/news-stories/kandoo-car-credit-ltd-enters-administration",
    "title": "Kandoo Car Credit Ltd enters administration",
