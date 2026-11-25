@@ -1,6 +1,37 @@
 {
- "last_fetched_at": "2026-11-24T18:40:59.616753+00:00",
+ "last_fetched_at": "2026-11-25T17:50:14.248265+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/blogs/how-should-investors-evaluate-performance",
+   "title": "How should investors evaluate performance?",
+   "source": "FCA",
+   "published_date": "2026-11-25T14:45:00+00:00",
+   "summary": "A fund's headline return does not tell the full story, and investors should evaluate underperformance based on the fund's stated objective, strategy, and style rather than just comparing it to a broad market index. Authorized fund managers must conduct an annual Assessment of Value considering performance, costs, and service quality while accounting for disclosed style biases. A proposed Value for Money framework for workplace pensions will further encourage schemes to assess long-term investment contributions to their objectives.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+   "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
+   "source": "SEC",
+   "published_date": "2026-11-25T14:10:24+00:00",
+   "summary": "The SEC's Investor Advisory Committee announced a virtual public meeting scheduled for December 3, 2026. The agenda includes discussions on tokenized securities trading, bankruptcy, and accounting oversight. Additionally, the committee will address potential recommendations on the proposed rescission of the Trade-Through Rule and a study on retail investor understanding of private market assets.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "低",
+   "deadline": "2026-12-03",
+   "frameworks": [
+    {
+     "name": "Crypto-asset regime",
+     "reason": "The announcement explicitly states that the committee meeting will discuss 'the trading of tokenized securities'."
+    }
+   ],
+   "action": "No action required; for awareness only.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/blogs/smarter-regulation-means-understanding-trade-offs",
    "title": "Smarter regulation means understanding the trade-offs",
