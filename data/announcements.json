@@ -1,6 +1,45 @@
 {
- "last_fetched_at": "2026-11-25T17:50:14.248265+00:00",
+ "last_fetched_at": "2026-11-26T17:33:58.268437+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/statements/payments-authorities-mou-review-2026",
+   "title": "Authorities complete 2026 review of payments Memorandum of Understanding",
+   "source": "FCA",
+   "published_date": "2026-11-26T15:00:00+00:00",
+   "summary": "The Bank of England, FCA, PRA, and PSR have completed their annual review of the payments Memorandum of Understanding. The review concluded that regulatory cooperation and coordination remain effective, with no changes needed to the MoU at this time. Authorities will continue collaborating on payments innovations, stablecoin issuers, and broader regulatory alignment.",
+   "business_area": "审慎监管与资本要求",
+   "risk_level": "低",
+   "deadline": null,
+   "frameworks": [],
+   "action": "No action required; for awareness only as the annual review of the payments MoU resulted in no changes.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/press-releases/check-firm-you-invest-fca-warns-ai-scams-rise",
+   "title": "Check the firm before you invest, FCA warns, as AI scams rise",
+   "source": "FCA",
+   "published_date": "2026-11-26T09:16:00+00:00",
+   "summary": "The FCA reports a nearly 400% year-on-year surge in investment fraud reports mentioning suspected artificial intelligence use, rising to 956 cases. Victims of investment fraud lost an average of £28,188 in 2025/26, with well-known public figures frequently impersonated in deepfakes. The regulator warns consumers to use the Firm Checker tool to verify if a firm is authorised before investing.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review consumer awareness campaigns and financial promotion verification channels in light of rising AI-generated investment scams.",
+   "status": "todo"
+  },
+  {
+   "url": "https://www.fca.org.uk/news/statements/motor-finance-compensation-scheme-calculation",
+   "title": "Motor finance compensation scheme calculation",
+   "source": "FCA",
+   "published_date": "2026-11-26T07:03:00+00:00",
+   "summary": "Data errors were identified in categorising loan agreements that inform the APR adjustment used in the motor finance compensation scheme calculation. The potential impact is estimated at less than 1 percentage point either side of the 17% rate and under £10 per agreement on average. Lenders must continue complying with active scheme rules, while Barclays has been asked to pause full and final settlement offers pending review.",
+   "business_area": "消費者保護與產品行銷",
+   "risk_level": "高",
+   "deadline": "2026-11-27",
+   "frameworks": [],
+   "action": "Review motor finance data categorisation and APR adjustments while ensuring continued compliance with active scheme rules and pausing Barclays-style settlement offers.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/blogs/how-should-investors-evaluate-performance",
    "title": "How should investors evaluate performance?",
