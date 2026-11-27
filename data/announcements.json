@@ -1,6 +1,19 @@
 {
- "last_fetched_at": "2026-11-26T17:33:58.268437+00:00",
+ "last_fetched_at": "2026-11-27T17:16:38.934858+00:00",
  "announcements": [
+  {
+   "url": "https://www.fca.org.uk/news/speeches/cyber-resilience-building-confidence-threats-evolve",
+   "title": "Cyber resilience: building confidence as threats evolve",
+   "source": "FCA",
+   "published_date": "2026-11-27T09:34:00+00:00",
+   "summary": "Mark Francis, director of specialists at the Cyber Security in Financial Services Summit, discussed the evolving threat landscape driven by AI, quantum computing, and complex interconnected third-party networks. He highlighted that while new technologies increase attack speed and accessibility, cyber fundamentals, robust governance, and effective change management remain essential for resilience. Additionally, he noted that the FCA, Bank of England, and Prudential Regulation Authority recently opened a consultation on proposed guidance to consolidate existing cyber resilience expectations.",
+   "business_area": "審慎監管與資本要求",
+   "risk_level": "中",
+   "deadline": null,
+   "frameworks": [],
+   "action": "Review the newly opened joint consultation on proposed cyber resilience guidance by the FCA, Bank of England, and Prudential Regulation Authority to assess alignment with existing cyber risk controls.",
+   "status": "todo"
+  },
   {
    "url": "https://www.fca.org.uk/news/statements/payments-authorities-mou-review-2026",
    "title": "Authorities complete 2026 review of payments Memorandum of Understanding",
